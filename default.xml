@@ -346,7 +346,11 @@
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
   <project path="vendor/htc/ace" name="Andromadus/proprietary_htc_ace" />
   <project path="vendor/qcom/proprietary" name="Andromadus/android_vendor_qcom_proprietary" />
-  <!-- MISC PROJECTS END -->
+  <!-- MISC ACE PROJECTS END -->
+
+  <!-- LOGGY BEGIN -->
+  <project path="packages/apps/Loggy" name="koush/Loggy" revision="master" />
+  <!-- LOGGY END -->
 
   <!-- OWN PROJECTS BEGIN -->
   <project path="android" name="Mustaavalkosta/android" revision="jb-mv" />
