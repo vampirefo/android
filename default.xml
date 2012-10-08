@@ -350,6 +350,7 @@
 
   <!-- LOGGY BEGIN -->
   <project path="packages/apps/Loggy" name="koush/Loggy" revision="master" />
+  <project path="packages/apps/AndroidAsync" name="koush/AndroidAsync" revision="master" />
   <!-- LOGGY END -->
 
   <!-- OWN PROJECTS BEGIN -->
