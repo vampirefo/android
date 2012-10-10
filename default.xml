@@ -30,7 +30,6 @@
   <project path="device/sample" name="CyanogenMod/android_device_sample" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" />
   <project path="docs/source.android.com" name="CyanogenMod/android_docs_source.android.com" />
-  <project path="external/aac" name="CyanogenMod/android_external_aac" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
   <project path="external/antlr" name="CyanogenMod/android_external_antlr" />
   <project path="external/apache-harmony" name="CyanogenMod/android_external_apache-harmony" />
@@ -43,7 +42,6 @@
   <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
   <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
   <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
-  <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
   <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
   <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
   <project path="external/checkpolicy" name="CyanogenMod/android_external_checkpolicy" />
@@ -61,7 +59,6 @@
   <project path="external/eclipse-windowbuilder" name="CyanogenMod/android_external_eclipse-windowbuilder" />
   <project path="external/elfutils" name="CyanogenMod/android_external_elfutils" />
   <project path="external/embunit" name="CyanogenMod/android_external_embunit" />
-  <project path="external/emma" name="CyanogenMod/android_external_emma" />
   <project path="external/esd" name="CyanogenMod/android_external_esd" />
   <project path="external/expat" name="CyanogenMod/android_external_expat" />
   <project path="external/eyes-free" name="CyanogenMod/android_external_eyes-free" />
@@ -280,7 +277,10 @@
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" remote="aosp" revision="master" />
   <project path="bootable/recovery" name="platform/bootable/recovery" remote="aosp" revision="master" />
   <project path="cts" name="platform/cts" remote="aosp" revision="master" />
+  <project path="external/aac" name="platform/external/aac" remote="aosp" revision="master" />
+  <project path="external/bouncycastle" name="platform/external/bouncycastle" remote="aosp" revision="master" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" remote="aosp" revision="master" />
+  <project path="external/emma" name="platform/external/emma" remote="aosp" revision="master" />
   <project path="prebuilt" name="platform/prebuilt" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/eclipse" name="platform/prebuilts/eclipse" remote="aosp" revision="jb-dev" />
   <project path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" remote="aosp" revision="jb-dev" />
