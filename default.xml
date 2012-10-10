@@ -347,7 +347,7 @@
 
   <!-- MISC PROJECTS BEGIN -->
   <project path="packages/apps/0xbench" name="platform/packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
-  <project path="packages/apps/Calculator" name="Xlythe/android_packages_apps_Calculator" />
+  <project path="packages/apps/Calculator" name="Xlythe/android_packages_apps_Calculator" revision="ics" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
   <!-- MISC PROJECTS END -->
 
