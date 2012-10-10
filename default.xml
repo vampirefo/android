@@ -333,17 +333,15 @@
   <project path="system/security" name="codefireX/android_system_security" revision="jb-devel" />
   <!-- CODEFIREX PROJECTS END -->
 
-  <!-- MISC ACE PROJECTS BEGIN -->
+  <!-- ACE PROJECTS BEGIN -->
   <project path="device/htc/common" name="aospX/platform_device_htc_common" revision="jb-devel"/>
   <project path="device/htc/msm7x30-common" name="codefire-ace/platform_device_htc_msm7x30-common" revision="jb-devel" />
   <project path="frameworks/av" name="codefire-ace/android_frameworks_av" revision="jb-devel" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" revision="jellybean" />
   <project path="kernel/htc/htc-kernel-msm7x30" name="KangBangKreations/htc-kernel-msm7x30" revision="kb-stable" />
   <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" revision="kb-stable" />
-  <project path="packages/apps/0xbench" name="platform/packages/apps/0xbench" remote="linaro-android" revision="linaro-master" />
   <project path="packages/apps/Camera" name="codefire-ace/android_packages_apps_Camera" revision="jb-devel" />
   <project path="packages/apps/LegacyCamera" name="Evervolv/android_packages_apps_LegacyCamera" revision="jellybean" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
   <project path="vendor/htc/ace" name="Andromadus/proprietary_htc_ace" />
   <project path="vendor/qcom/proprietary" name="Andromadus/android_vendor_qcom_proprietary" />
   <!-- ACE PROJECTS END -->
