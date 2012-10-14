@@ -350,7 +350,7 @@
   <!-- OWN PROJECTS BEGIN -->
   <project path="android" name="Mustaavalkosta/android" revision="jb-mv" />
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" remote="private" revision="jb-mv" />
-  <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" remote="private" />
+  <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" remote="private" revision="jb-mv revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" remote="private" revision="jb-mv" />
   <project path="packages/apps/Settings" name="Mustaavalkosta/android_packages_apps_Settings" remote="private" revision="jb-mv" />
   <project path="vendor/cm" name="Mustaavalkosta/android_vendor_cm" remote="private" revision="jb-mv" />
