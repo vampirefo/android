@@ -118,7 +118,6 @@
   <project path="external/littlemock" name="CyanogenMod/android_external_littlemock" />
   <project path="external/llvm" name="CyanogenMod/android_external_llvm" />
   <project path="external/lohit-fonts" name="CyanogenMod/android_external_lohit-fonts" />
-  <!-- <project path="external/lsof" name="CyanogenMod/android_external_lsof" /> -->
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/markdown" name="CyanogenMod/android_external_markdown" />
   <project path="external/mdnsresponder" name="CyanogenMod/android_external_mdnsresponder" />
@@ -351,6 +350,7 @@
   <!-- OWN PROJECTS BEGIN -->
   <project path="android" name="Mustaavalkosta/android" revision="jb-mv" />
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" remote="private" revision="jb-mv" />
+  <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" remote="private" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" remote="private" revision="jb-mv" />
   <project path="packages/apps/Settings" name="Mustaavalkosta/android_packages_apps_Settings" remote="private" revision="jb-mv" />
   <project path="vendor/cm" name="Mustaavalkosta/android_vendor_cm" remote="private" revision="jb-mv" />
