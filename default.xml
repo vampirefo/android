@@ -37,7 +37,7 @@
   <project path="external/apache-http" name="CyanogenMod/android_external_apache-http" />
   <project path="external/apache-xml" name="CyanogenMod/android_external_apache-xml" />
   <project path="external/astl" name="CyanogenMod/android_external_astl" />
-  <!-- <project path="external/bash" name="CyanogenMod/android_external_bash" /> -->
+  <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="CyanogenMod/android_external_bison" />
   <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
   <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
