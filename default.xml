@@ -246,6 +246,7 @@
   <project path="packages/apps/HTMLViewer" name="CyanogenMod/android_packages_apps_HTMLViewer" />
   <project path="packages/apps/KeyChain" name="CyanogenMod/android_packages_apps_KeyChain" />
   <project path="packages/apps/Launcher2" name="CyanogenMod/android_packages_apps_Launcher2" />
+  <project path="packages/apps/LegacyCamera" name="CyanogenMod/android_packages_apps_LegacyCamera" />
   <project path="packages/apps/Mms" name="CyanogenMod/android_packages_apps_Mms" />
   <project path="packages/apps/Music" name="CyanogenMod/android_packages_apps_Music" />
   <project path="packages/apps/MusicFX" name="CyanogenMod/android_packages_apps_MusicFX" />
@@ -330,7 +331,6 @@
   <project path="kernel/htc/htc-kernel-msm7x30" name="KangBangKreations/htc-kernel-msm7x30" revision="kb-stable" />
   <project path="kernel/htc/KangBanged-7x30" name="KangBangKreations/KangBanged-7x30" revision="kb-stable" />
   <project path="packages/apps/Camera" name="codefire-ace/android_packages_apps_Camera" revision="jb-devel" />
-  <project path="packages/apps/LegacyCamera" name="Evervolv/android_packages_apps_LegacyCamera" revision="jellybean" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-linaro-4.7" name="Andromadus/android_prebuilts_gcc_linux-x86_arm_arm-eabi-linaro-4.7" revision="jellybean" />
   <project path="vendor/htc/ace" name="Andromadus/proprietary_htc_ace" />
   <project path="vendor/qcom/proprietary" name="Andromadus/android_vendor_qcom_proprietary" />
