@@ -19,10 +19,6 @@
            sync-c="true"
            sync-j="8" />
 
-  <project path="build" name="CyanogenMod/android_build">
-    <copyfile src="core/root.mk" dest="Makefile" />
-  </project>
-
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" />
   <project path="bionic" name="CyanogenMod/android_bionic" />
   <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
@@ -362,6 +358,10 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <!-- Custom repos -->
+  <project path="build" name="Mustaavalkosta/android_build" revision="jb-mv">
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+
   <project path="android" name="Mustaavalkosta/android" revision="jb-mv" />
   <project path="device/common" name="Andromadus/android_device_common" revision="cm10.1" />
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" revision="jb-mv" />
