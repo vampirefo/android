@@ -152,7 +152,6 @@
   <project path="external/okhttp" name="CyanogenMod/android_external_okhttp" />
   <project path="external/opencv" name="CyanogenMod/android_external_opencv" />
   <project path="external/openfst" name="CyanogenMod/android_external_openfst" />
-  <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" />
   <project path="external/oprofile" name="CyanogenMod/android_external_oprofile" />
   <project path="external/ping6" name="CyanogenMod/android_external_ping6" />
   <project path="external/powertop" name="CyanogenMod/android_external_powertop" />
@@ -358,6 +357,7 @@
   <project path="external/icu4c" name="platform/external/icu4c/" remote="aosp" revision="master" />
   <project path="external/openssh" name="Mustaavalkosta/android_external_openssh" revision="jb-mv" />
   <project path="external/openssl" name="Mustaavalkosta/android_external_openssl" revision="jb-mv" />
+  <project path="external/openvpn" name="Mustaavalkosta/android_external_openvpn" revision="jb-mv" />
   <project path="external/ping" name="Mustaavalkosta/android_external_ping" revision="jb-mv" />
   <project path="external/skia" name="Mustaavalkosta/android_external_skia" private="jb-mv" />
   <project path="external/stlport" name="Mustaavalkosta/android_external_stlport" private="jb-mv" />
