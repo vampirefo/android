@@ -204,7 +204,6 @@
   <project path="frameworks/compile/llvm-ndk-cc" name="CyanogenMod/android_frameworks_compile_llvm-ndk-cc" />
   <project path="frameworks/compile/mclinker" name="CyanogenMod/android_frameworks_compile_mclinker" />
   <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
-  <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
@@ -368,6 +367,7 @@
   <project path="external/stlport" name="Mustaavalkosta/android_external_stlport" private="jb-mv" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
+  <project path="frameworks/ex" name="Mustaavalkosta/android_frameworks_ex" revision="jb-mv" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="cm10.1" />
   <project path="frameworks/rs" name="Mustaavalkosta/android_frameworks_rs" revision="jb-mv" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" revision="cm10.1" />
