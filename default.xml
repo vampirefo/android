@@ -133,7 +133,6 @@
   <project path="external/littlemock" name="CyanogenMod/android_external_littlemock" />
   <project path="external/llvm" name="CyanogenMod/android_external_llvm" />
   <project path="external/lohit-fonts" name="CyanogenMod/android_external_lohit-fonts" />
-  <project path="external/lsof" name="CyanogenMod/android_external_lsof" />
   <project path="external/lzo" name="CyanogenMod/android_external_lzo" />
   <project path="external/markdown" name="CyanogenMod/android_external_markdown" />
   <project path="external/mdnsresponder" name="CyanogenMod/android_external_mdnsresponder" />
@@ -355,6 +354,7 @@
   <project path="external/dnsmasq" name="Mustaavalkosta/android_external_dnsmasq" revision="jb-mv" />
   <project path="external/e2fsprogs" name="Mustaavalkosta/android_external_e2fsprogs" revision="jb-mv" />
   <project path="external/icu4c" name="platform/external/icu4c/" remote="aosp" revision="master" />
+  <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" revision="jb-mv" />
   <project path="external/openssh" name="Mustaavalkosta/android_external_openssh" revision="jb-mv" />
   <project path="external/openssl" name="Mustaavalkosta/android_external_openssl" revision="jb-mv" />
   <project path="external/openvpn" name="Mustaavalkosta/android_external_openvpn" revision="jb-mv" />
