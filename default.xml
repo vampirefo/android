@@ -192,7 +192,6 @@
   <project path="external/webp" name="CyanogenMod/android_external_webp" />
   <project path="external/webrtc" name="CyanogenMod/android_external_webrtc" />
   <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
-  <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
   <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
   <project path="external/xmp_toolkit" name="CyanogenMod/android_external_xmp_toolkit" />
   <project path="external/yaffs2" name="CyanogenMod/android_external_yaffs2" />
@@ -364,6 +363,7 @@
   <project path="external/ping" name="Mustaavalkosta/android_external_ping" revision="jb-mv" />
   <project path="external/skia" name="Mustaavalkosta/android_external_skia" private="jb-mv" />
   <project path="external/stlport" name="Mustaavalkosta/android_external_stlport" private="jb-mv" />
+  <project path="external/wpa_supplicant_8" name="Mustaavalkosta/android_external_wpa_supplicant_8" private="jb-mv" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
   <project path="frameworks/ex" name="Mustaavalkosta/android_frameworks_ex" revision="jb-mv" />
