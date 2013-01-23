@@ -178,7 +178,6 @@
   <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" />
   <project path="external/srec" name="CyanogenMod/android_external_srec" />
   <project path="external/srtp" name="CyanogenMod/android_external_srtp" />
-  <project path="external/stlport" name="CyanogenMod/android_external_stlport" />
   <project path="external/strace" name="CyanogenMod/android_external_strace" />
   <project path="external/stressapptest" name="CyanogenMod/android_external_stressapptest" />
   <project path="external/svox" name="CyanogenMod/android_external_svox" />
@@ -366,6 +365,7 @@
   <project path="external/icu4c" name="platform/external/icu4c/" remote="aosp" revision="master" />
   <project path="external/openssl" name="Mustaavalkosta/android_external_openssl" revision="jb-mv" />
   <project path="external/skia" name="Mustaavalkosta/android_external_skia" private="jb-mv" />
+  <project path="external/stlport" name="Mustaavalkosta/android_external_stlport" private="jb-mv" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" revision="cm10.1" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="cm10.1" />
