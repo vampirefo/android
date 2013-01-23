@@ -217,7 +217,6 @@
   <project path="frameworks/opt/vcard" name="CyanogenMod/android_frameworks_opt_vcard" />
   <project path="frameworks/support" name="CyanogenMod/android_frameworks_support" />
   <project path="frameworks/testing" name="CyanogenMod/android_frameworks_testing" />
-  <project path="frameworks/wilhelm" name="CyanogenMod/android_frameworks_wilhelm" />
   <project path="gdk" name="platform/gdk" remote="aosp" revision="jb-mr1-release" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" />
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
@@ -370,6 +369,7 @@
   <project path="frameworks/ex" name="Mustaavalkosta/android_frameworks_ex" revision="jb-mv" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="cm10.1" />
   <project path="frameworks/rs" name="Mustaavalkosta/android_frameworks_rs" revision="jb-mv" />
+  <project path="frameworks/wilhelm" name="Mustaavalkosta/android_frameworks_wilhelm" revision="jb-mv" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" revision="cm10.1" />
   <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" revision="Andro4.2" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" revision="jb4.2" />
