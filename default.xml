@@ -345,7 +345,6 @@
   <project path="system/extras" name="CyanogenMod/android_system_extras" />
   <project path="system/media" name="CyanogenMod/android_system_media" />
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
-  <project path="system/security" name="CyanogenMod/android_system_security" />
   <project path="system/su" name="CyanogenMod/android_system_su" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   <project path="tools/build" name="platform/tools/build" remote="aosp" revision="jb-mr1-release" />
@@ -382,6 +381,7 @@
   <project path="packages/apps/Settings" name="Mustaavalkosta/android_packages_apps_Settings" revision="jb-mv" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" remote="cfx" revision="jb-devel" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7" remote="cfx" revision="jb-devel" />
+  <project path="system/security" name="Mustaavalkosta/android_system_security" revision="jb-mv" />
   <project path="vendor/cm" name="Mustaavalkosta/android_vendor_cm" revision="jb-mv" />
   <project path="vendor/htc/ace" name="vendor_htc_ace" remote="cfx" revision="jb-devel" />
   <project path="vendor/pizza" name="Mustaavalkosta/android_vendor_pizza" revision="jb-mv" />
