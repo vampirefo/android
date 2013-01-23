@@ -366,7 +366,7 @@
   <project path="external/openssl" name="Mustaavalkosta/android_external_openssl" revision="jb-mv" />
   <project path="external/skia" name="Mustaavalkosta/android_external_skia" private="jb-mv" />
   <project path="external/stlport" name="Mustaavalkosta/android_external_stlport" private="jb-mv" />
-  <project path="frameworks/av" name="Andromadus/android_frameworks_av" revision="cm10.1" />
+  <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="cm10.1" />
   <project path="frameworks/rs" name="Mustaavalkosta/android_frameworks_rs" revision="jb-mv" />
