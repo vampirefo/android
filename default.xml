@@ -367,7 +367,7 @@
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
   <project path="frameworks/ex" name="Mustaavalkosta/android_frameworks_ex" revision="jb-mv" />
-  <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="cm10.1" />
+  <project path="frameworks/native" name="Mustaavalkosta/android_frameworks_native" revision="jb-mv" />
   <project path="frameworks/rs" name="Mustaavalkosta/android_frameworks_rs" revision="jb-mv" />
   <project path="frameworks/wilhelm" name="Mustaavalkosta/android_frameworks_wilhelm" revision="jb-mv" />
   <project path="hardware/libhardware" name="Andromadus/android_hardware_libhardware" revision="cm10.1" />
