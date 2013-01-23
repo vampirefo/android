@@ -175,7 +175,6 @@
   <project path="external/rsync" name="CyanogenMod/android_external_rsync" />
   <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" />
   <project path="external/sepolicy" name="CyanogenMod/android_external_sepolicy" />
-  <project path="external/skia" name="CyanogenMod/android_external_skia" />
   <project path="external/smali" name="CyanogenMod/android_external_smali" />
   <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
   <project path="external/speex" name="CyanogenMod/android_external_speex" />
@@ -368,6 +367,7 @@
   <project path="device/htc/common" name="Andromadus/android_device_htc_common" remote="github" revision="jb" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" revision="jb-mv" />
   <project path="external/icu4c" name="platform/external/icu4c/" remote="aosp" revision="master" />
+  <project path="external/skia" name="Mustaavalkosta/android_external_skia" private="jb-mv" />
   <project path="frameworks/av" name="Andromadus/android_frameworks_av" revision="cm10.1" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
   <project path="frameworks/native" name="Andromadus/android_frameworks_native" revision="cm10.1" />
