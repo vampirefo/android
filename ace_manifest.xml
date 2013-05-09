@@ -78,7 +78,7 @@
   <project path="frameworks/rs" name="Mustaavalkosta/android_frameworks_rs" revision="jb-mv" />
   <project path="frameworks/wilhelm" name="Mustaavalkosta/android_frameworks_wilhelm" revision="jb-mv" />
   <project path="hardware/msm7k" name="Mustaavalkosta/android_hardware_msm7k" revision="jb-mv" />
-  <project path="hardware/qcom/audio" name="Andromadus/android_hardware_qcom_audio" revision="Andro4.2" />
+  <project path="hardware/qcom/audio" name="Mustaavalkosta/android_hardware_qcom_audio" revision="Andro4.2" />
   <project path="hardware/qcom/display" name="Mustaavalkosta/android_hardware_qcom_display" revision="cm-10.1" />
   <project path="hardware/qcom/gps" name="Mustaavalkosta/android_hardware_qcom_gps" revision="jb-mv" />
   <project path="hardware/qcom/media" name="Mustaavalkosta/android_hardware_qcom_media" revision="jb4.2" />
