@@ -90,6 +90,7 @@
   <project path="packages/apps/0xbench" name="platform/packages/apps/0xbench" remote="linaro" revision="linaro-master" />
   <project path="packages/apps/Camera" name="Mustaavalkosta/android_packages_apps_Camera" revision="jb-mv" />
   <project path="packages/apps/Settings" name="Mustaavalkosta/android_packages_apps_Settings" revision="jb-mv" />
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.7" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.7" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" revision="master" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.7" revision="master" />
