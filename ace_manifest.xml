@@ -7,6 +7,7 @@
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_bionic" />
+  <remove-project name="CyanogenMod/android_external_bluetooth_bluedroid" />
   <remove-project name="CyanogenMod/android_external_busybox" />
   <remove-project name="CyanogenMod/android_external_chromium" />
   <remove-project name="CyanogenMod/android_external_clang" />
@@ -54,6 +55,7 @@
   <project path="bionic" name="Mustaavalkosta/android_bionic" revision="jb-mv" />
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" revision="jb-mv" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" revision="jb-mv" />
+  <project path="external/bluetooth/bluedroid" name="Mustaavalkosta/android_external_bluetooth_bluedroid" revision="jb-mv" />
   <project path="external/busybox" name="Mustaavalkosta/android_external_busybox" revision="jb-mv" />
   <project path="external/chromium" name="Mustaavalkosta/android_external_chromium" revision="jb-mv" />
   <project path="external/clang" name="Mustaavalkosta/android_external_clang" revision="jb-mv" />
