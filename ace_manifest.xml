@@ -7,6 +7,7 @@
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_bionic" />
+  <remove-project name="CyanogenMod/android_external_bluetooth_bluedroid" />
   <remove-project name="CyanogenMod/android_external_busybox" />
   <remove-project name="CyanogenMod/android_external_chromium" />
   <remove-project name="CyanogenMod/android_external_clang" />
