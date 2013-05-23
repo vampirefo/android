@@ -54,6 +54,7 @@
   <project path="bionic" name="Mustaavalkosta/android_bionic" revision="jb-mv" />
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" revision="jb-mv" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" revision="jb-mv" />
+  <project path="external/angle" name="Mustaavalkosta/android_external_angle" revision="jb-mv" />
   <project path="external/bluetooth/bluedroid" name="Mustaavalkosta/android_external_bluetooth_bluedroid" revision="jb-mv" />
   <project path="external/busybox" name="Mustaavalkosta/android_external_busybox" revision="jb-mv" />
   <project path="external/chromium" name="Mustaavalkosta/android_external_chromium" revision="jb-mv" />
