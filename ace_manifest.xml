@@ -64,6 +64,7 @@
   <project path="external/dnsmasq" name="Mustaavalkosta/android_external_dnsmasq" revision="jb-mv" />
   <project path="external/e2fsprogs" name="Mustaavalkosta/android_external_e2fsprogs" revision="jb-mv" />
   <project path="external/freetype" name="Mustaavalkosta/android_external_freetype" revision="jb-mv" />
+  <project path="external/kissfft" name="Mustaavalkosta/android_external_kissfft" revision="jb-mv" />
   <project path="external/llvm" name="Mustaavalkosta/android_external_llvm" revision="jb-mv" />
   <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" revision="jb-mv" />
   <project path="external/openssh" name="Mustaavalkosta/android_external_openssh" revision="jb-mv" />
