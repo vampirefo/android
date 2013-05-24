@@ -28,6 +28,7 @@
   <remove-project name="CyanogenMod/android_external_wpa_supplicant_8" />
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_frameworks_base" />
+  <remove-project name="CyanogenMod/android_frameworks_compile_libbcc" />
   <remove-project name="CyanogenMod/android_frameworks_ex" />
   <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
@@ -77,6 +78,7 @@
   <project path="external/wpa_supplicant_8" name="Mustaavalkosta/android_external_wpa_supplicant_8" revision="jb-mv" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
+  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="master" />
   <project path="frameworks/ex" name="Mustaavalkosta/android_frameworks_ex" revision="jb-mv" />
   <project path="frameworks/native" name="Mustaavalkosta/android_frameworks_native" revision="jb-mv" />
   <project path="frameworks/opt/telephony" name="Mustaavalkosta/android_frameworks_opt_telephony" />
