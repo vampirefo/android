@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="linaro"
-           fetch="http://android.git.linaro.org/git-ro/" />
+           fetch="git://android.git.linaro.org/" />
 
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
@@ -95,10 +95,8 @@
   <project path="libcore" name="Mustaavalkosta/android_libcore" revision="jb-mv" />
   <project path="packages/apps/Camera" name="Mustaavalkosta/android_packages_apps_Camera" revision="jb-mv" />
   <project path="packages/apps/Settings" name="Mustaavalkosta/android_packages_apps_Settings" revision="jb-mv" />
-  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.7" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.7" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" revision="master" />
-  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-linux-androideabi-4.8" revision="master" />
   <project path="prebuilts/misc" name="Mustaavalkosta/android_prebuilts_misc" revision="jb-mv" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7-linaro" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7-linaro" remote="linaro" revision="master" />
   <project path="system/core" name="Mustaavalkosta/android_system_core" revision="jb-mv" />
   <project path="system/security" name="Mustaavalkosta/android_system_security" revision="jb-mv" />
   <project path="vendor/cm" name="Mustaavalkosta/android_vendor_cm" revision="jb-mv" />
