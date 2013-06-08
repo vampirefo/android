@@ -8,7 +8,6 @@
   <remove-project name="CyanogenMod/android_device_google_accessory_arduino" />
   <remove-project name="CyanogenMod/android_device_google_accessory_demokit" />
   <remove-project name="CyanogenMod/android_hardware_invensense" />
-  <remove-project name="CyanogenMod/android_hardware_qcom_audio-caf" />
   <remove-project name="CyanogenMod/android_hardware_qcom_display-caf" />
   <remove-project name="CyanogenMod/android_hardware_qcom_msm8960" />
   <remove-project name="CyanogenMod/android_hardware_samsung_slsi_exynos5" />

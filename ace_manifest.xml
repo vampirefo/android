@@ -35,7 +35,6 @@
   <remove-project name="CyanogenMod/android_frameworks_rs" />
   <remove-project name="CyanogenMod/android_frameworks_wilhelm" />
   <remove-project name="CyanogenMod/android_hardware_msm7k" />
-  <remove-project name="CyanogenMod/android_hardware_qcom_audio" />
   <remove-project name="CyanogenMod/android_hardware_qcom_display" />
   <remove-project name="CyanogenMod/android_hardware_qcom_gps" />
   <remove-project name="CyanogenMod/android_hardware_qcom_media" />
@@ -86,7 +85,6 @@
   <project path="frameworks/rs" name="Mustaavalkosta/android_frameworks_rs" revision="jb-mv" />
   <project path="frameworks/wilhelm" name="Mustaavalkosta/android_frameworks_wilhelm" revision="jb-mv" />
   <project path="hardware/msm7k" name="Mustaavalkosta/android_hardware_msm7k" revision="jb-mv" />
-  <project path="hardware/qcom/audio" name="Mustaavalkosta/android_hardware_qcom_audio" revision="cm-10.1" />
   <project path="hardware/qcom/display" name="Mustaavalkosta/android_hardware_qcom_display" revision="jb-mv" />
   <project path="hardware/qcom/gps" name="Mustaavalkosta/android_hardware_qcom_gps" revision="jb-mv" />
   <project path="hardware/qcom/media" name="Mustaavalkosta/android_hardware_qcom_media" revision="cm-10.1" />
