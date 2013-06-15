@@ -95,6 +95,7 @@
   <project path="packages/apps/Settings" name="Mustaavalkosta/android_packages_apps_Settings" revision="jb-mv" />
   <project path="prebuilts/misc" name="Mustaavalkosta/android_prebuilts_misc" revision="jb-mv" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7-linaro" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.7-linaro" remote="linaro" revision="master" />
+  <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8-linaro" remote="linaro" revision="master" />
   <project path="system/core" name="Mustaavalkosta/android_system_core" revision="jb-mv" />
   <project path="system/security" name="Mustaavalkosta/android_system_security" revision="jb-mv" />
   <project path="vendor/cm" name="Mustaavalkosta/android_vendor_cm" revision="jb-mv" />
