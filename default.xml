@@ -33,6 +33,7 @@
 
   <default revision="refs/tags/android-4.2.2_r1.2"
            remote="aosp"
+           sync-c="true"
            sync-j="4" />
 
   <project path="build" name="android_build" remote="rootbox" revision="jb-mr1" >
