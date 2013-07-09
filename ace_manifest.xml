@@ -13,6 +13,7 @@
   <remove-project name="CyanogenMod/android_external_clang" />
   <remove-project name="CyanogenMod/android_external_dnsmasq" />
   <remove-project name="CyanogenMod/android_external_e2fsprogs" />
+  <remove-project name="CyanogenMod/android_external_fuse" />
   <remove-project name="CyanogenMod/android_external_freetype" />
   <remove-project name="CyanogenMod/android_external_llvm" />
   <remove-project name="CyanogenMod/android_external_lsof" />
@@ -63,6 +64,7 @@
   <project path="external/dnsmasq" name="Mustaavalkosta/android_external_dnsmasq" revision="jb-mv" />
   <project path="external/e2fsprogs" name="Mustaavalkosta/android_external_e2fsprogs" revision="jb-mv" />
   <project path="external/freetype" name="Mustaavalkosta/android_external_freetype" revision="jb-mv" />
+  <project path="external/fuse" name="Mustaavalkosta/android_external_fuse" revision="jb-mv" />
   <project path="external/kissfft" name="Mustaavalkosta/android_external_kissfft" revision="jb-mv" />
   <project path="external/llvm" name="Mustaavalkosta/android_external_llvm" revision="jb-mv" />
   <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" revision="jb-mv" />
