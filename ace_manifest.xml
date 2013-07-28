@@ -11,10 +11,13 @@
   <remove-project name="CyanogenMod/android_external_busybox" />
   <remove-project name="CyanogenMod/android_external_chromium" />
   <remove-project name="CyanogenMod/android_external_clang" />
+  <remove-project name="CyanogenMod/android_external_compiler-rt" />
   <remove-project name="CyanogenMod/android_external_dnsmasq" />
   <remove-project name="CyanogenMod/android_external_e2fsprogs" />
   <remove-project name="CyanogenMod/android_external_freetype" />
+  <remove-project name="CyanogenMod/android_external_fsck_msdos" />
   <remove-project name="CyanogenMod/android_external_llvm" />
+  <remove-project name="CyanogenMod/android_external_libpng" />
   <remove-project name="CyanogenMod/android_external_lsof" />
   <remove-project name="CyanogenMod/android_external_openssh" />
   <remove-project name="CyanogenMod/android_external_openssl" />
@@ -60,11 +63,14 @@
   <project path="external/busybox" name="Mustaavalkosta/android_external_busybox" revision="jb-mv" />
   <project path="external/chromium" name="Mustaavalkosta/android_external_chromium" revision="jb-mv" />
   <project path="external/clang" name="Mustaavalkosta/android_external_clang" revision="jb-mv" />
+  <project path="external/compiler-rt" name="Mustaavalkosta/android_external_compiler-rt" revision="jb-mv" />
   <project path="external/dnsmasq" name="Mustaavalkosta/android_external_dnsmasq" revision="jb-mv" />
   <project path="external/e2fsprogs" name="Mustaavalkosta/android_external_e2fsprogs" revision="jb-mv" />
   <project path="external/freetype" name="Mustaavalkosta/android_external_freetype" revision="jb-mv" />
+  <project path="external/fsck_msdos" name="Mustaavalkosta/android_external_fsck_msdos" revision="jb-mv" />
   <project path="external/kissfft" name="Mustaavalkosta/android_external_kissfft" revision="jb-mv" />
   <project path="external/llvm" name="Mustaavalkosta/android_external_llvm" revision="jb-mv" />
+  <project path="external/libpng" name="Mustaavalkosta/android_external_libpng" revision="jb-mv" />
   <project path="external/lsof" name="Mustaavalkosta/android_external_lsof" revision="jb-mv" />
   <project path="external/openssh" name="Mustaavalkosta/android_external_openssh" revision="jb-mv" />
   <project path="external/openssl" name="Mustaavalkosta/android_external_openssl" revision="jb-mv" />
@@ -78,7 +84,7 @@
   <project path="external/wpa_supplicant_8" name="Mustaavalkosta/android_external_wpa_supplicant_8" revision="jb-mv" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="jb-mv" />
   <project path="frameworks/base" name="Mustaavalkosta/android_frameworks_base" revision="jb-mv" />
-  <project path="frameworks/compile/libbcc" name="platform/frameworks/compile/libbcc" remote="aosp" revision="master" />
+  <project path="frameworks/compile/libbcc" name="Mustaavalkosta/android_frameworks_compile_libbcc" revision="jb-mv" />
   <project path="frameworks/ex" name="Mustaavalkosta/android_frameworks_ex" revision="jb-mv" />
   <project path="frameworks/native" name="Mustaavalkosta/android_frameworks_native" revision="jb-mv" />
   <project path="frameworks/opt/telephony" name="Mustaavalkosta/android_frameworks_opt_telephony" />
