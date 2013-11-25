@@ -10,7 +10,9 @@
   <remove-project name="platform/prebuilts/misc" />
 
   <!-- Mustaavalkosta -->
-  <project path="build" name="Mustaavalkosta/android_build" revision="cm-11.0" />
+  <project path="build" name="Mustaavalkosta/android_build" revision="cm-11.0" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" revision="cm-11.0" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" revision="cm-11.0" />
   <project path="hardware/qcom/audio-legacy" name="Mustaavalkosta/android_hardware_qcom_audio-legacy" revision="cm-11.0" />
