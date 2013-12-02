@@ -3,7 +3,7 @@
 
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
-  <remote-project name="CyanogenMod/android_frameworks_native" />
+  <remove-project name="CyanogenMod/android_frameworks_native" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_packages_apps_Torch" />
   <remove-project name="CyanogenMod/android_packages_providers_MediaProvider" />
