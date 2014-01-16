@@ -4,7 +4,6 @@
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
-  <remove-project name="CyanogenMod/android_packages_apps_Camera2" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_packages_apps_Dialer" />
   <remove-project name="CyanogenMod/android_packages_apps_InCallUI" />
@@ -24,7 +23,6 @@
   <project path="hardware/qcom/media-legacy" name="Mustaavalkosta/android_hardware_qcom_media-legacy" revision="cm-11.0" />
   <project path="kernel/htc/htc7x30-3.0" name="Mustaavalkosta/htc7x30-3.0" revision="cm-11.0" />
   <project path="local_manifest" name="Mustaavalkosta/android" revision="cm-11.0" />
-  <project path="packages/apps/Camera2" name="Mustaavalkosta/android_packages_apps_Camera2" revision="cm-11.0" />
   <project path="packages/apps/Dialer" name="Mustaavalkosta/android_packages_apps_Dialer" revision="cm-11.0" />
   <project path="packages/apps/InCallUI" name="Mustaavalkosta/android_packages_apps_InCallUI" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="Mustaavalkosta/android_packages_apps_Torch" revision="cm-11.0" />
