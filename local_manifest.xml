@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="github"
+           fetch="https://github.com/" />
+
+  <!-- remove AOKP repos -->
+  <remove-project name="AOKP/vendor_aokp" />
+
+  <!-- remove CM repos -->
+  <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
+
+  <!-- Mustaavalkosta -->
+  <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" remote="github" revision="aokp_bringup" />
+  <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" remote="github" revision="aokp_bringup" />
+  <project path="hardware/libhardware_legacy" name="Mustaavalkosta/android_hardware_libhardware_legacy" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/audio-legacy" name="Mustaavalkosta/android_hardware_qcom_audio-legacy" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/display-legacy" name="Mustaavalkosta/android_hardware_qcom_display-legacy" remote="github" revision="cm-11.0" />
+  <project path="hardware/qcom/media-legacy" name="Mustaavalkosta/android_hardware_qcom_media-legacy" remote="github" revision="cm-11.0" />
+  <project path="kernel/htc/htc7x30-3.0" name="Mustaavalkosta/htc7x30-3.0" remote="github" revision="cm-11.0" />
+  <project path="vendor/aokp" name="Mustaavalkosta/vendor_aokp" remote="github" revision="aokp_bringup" />
+  <project path="vendor/htc/ace" name="Mustaavalkosta/android_vendor_htc_ace" remote="github" revision="cm-11.0" />
+  <project path="vendor/qcom/proprietary" name="Mustaavalkosta/android_vendor_qcom_proprietary" remote="github" revision="cm-11.0" />
+
+</manifest>
