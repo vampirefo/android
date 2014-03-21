@@ -4,7 +4,6 @@
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_frameworks_av" />
-  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_hardware_libhardware_legacy" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_packages_apps_Torch" />
@@ -18,7 +17,6 @@
   <project path="device/htc/ace" name="Mustaavalkosta/android_device_htc_ace" revision="cm-11.0" />
   <project path="device/htc/msm7x30-common" name="Mustaavalkosta/android_device_htc_msm7x30-common" revision="cm-11.0" />
   <project path="frameworks/av" name="Mustaavalkosta/android_frameworks_av" revision="cm-11.0" />
-  <project path="frameworks/opt/telephony" name="Mustaavalkosta/android_frameworks_opt_telephony" revision="cm-11.0" />
   <project path="hardware/libhardware_legacy" name="Mustaavalkosta/android_hardware_libhardware_legacy" revision="cm-11.0" />
   <project path="hardware/qcom/audio-legacy" name="Mustaavalkosta/android_hardware_qcom_audio-legacy" revision="cm-11.0" />
   <project path="hardware/qcom/display-legacy" name="Mustaavalkosta/android_hardware_qcom_display-legacy" revision="cm-11.0" />
