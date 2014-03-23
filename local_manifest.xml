@@ -25,7 +25,6 @@
   <project path="packages/apps/ProximityRecalibrator" name="Mustaavalkosta/android_packages_apps_ProximityRecalibrator" revision="cm-11.0" />
   <project path="packages/apps/Torch" name="Mustaavalkosta/android_packages_apps_Torch" revision="cm-11.0" />
   <project path="packages/providers/MediaProvider" name="Mustaavalkosta/android_packages_providers_MediaProvider" revision="cm-11.0" />
-  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.8" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" revision="master" />
   <project path="vendor/htc/ace" name="Mustaavalkosta/android_vendor_htc_ace" revision="cm-11.0" />
   <project path="vendor/qcom/proprietary" name="Mustaavalkosta/android_vendor_qcom_proprietary" revision="cm-11.0" />
 
