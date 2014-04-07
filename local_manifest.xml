@@ -28,4 +28,7 @@
   <project path="vendor/htc/ace" name="AceEnablementProject/android_vendor_htc_ace" revision="cm-11.0" />
   <project path="vendor/qcom/proprietary" name="AceEnablementProject/android_vendor_qcom_proprietary" revision="cm-11.0" />
 
+  <!-- Mustaavalkosta -->
+  <project path="prebuilt/linux-x86/toolchain/arm-eabi-4.8" name="Mustaavalkosta/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" revision="master" />
+
 </manifest>
