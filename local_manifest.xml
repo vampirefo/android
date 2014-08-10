@@ -5,10 +5,12 @@
   <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_packages_providers_MediaProvider" />
+  <remove-project name="CyanogenMod/android_external_busybox" />
 
   <!-- AceEnablementProject -->
   <project path="device/htc/ace" name="AceEnablementProject/android_device_htc_ace" revision="cm-11.0" />
   <project path="device/htc/msm7x30-common" name="AceEnablementProject/android_device_htc_msm7x30-common" revision="cm-11.0" />
+  <project path="external/busybox" name="AceEnablementProject/android_external_busybox" revision="cm-11.0" />
   <project path="frameworks/av" name="AceEnablementProject/android_frameworks_av" revision="cm-11.0" />
   <project path="hardware/qcom/audio-legacy" name="AceEnablementProject/android_hardware_qcom_audio-legacy" revision="cm-11.0" />
   <project path="hardware/qcom/display-legacy" name="AceEnablementProject/android_hardware_qcom_display-legacy" revision="cm-11.0" />
