@@ -18,6 +18,5 @@
   <project path="packages/apps/ProximityRecalibrator" name="AceEnablementProject/android_packages_apps_ProximityRecalibrator" revision="cm-11.0" />
   <project path="packages/providers/MediaProvider" name="AceEnablementProject/android_packages_providers_MediaProvider" revision="cm-11.0" />
   <project path="vendor/htc/ace" name="AceEnablementProject/android_vendor_htc_ace" revision="cm-11.0" />
-  <project path="vendor/qcom/proprietary" name="AceEnablementProject/android_vendor_qcom_proprietary" revision="cm-11.0" />
 
 </manifest>
