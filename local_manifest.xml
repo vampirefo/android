@@ -17,11 +17,10 @@
   <project path="local_manifest" name="OpenDesireProject/android" revision="stable/cm-11.0" />
   <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="stable/cm-11.0" />
   <project path="packages/providers/MediaProvider" name="OpenDesireProject/android_packages_providers_MediaProvider" revision="stable/cm-11.0" />
-  <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="stable/cm-11.0" />
 
   <!-- Ace -->
-  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="cm-11.0" />
-  <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="cm-11.0" />
+  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="stable/cm-11.0" />
+  <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="stable/cm-11.0" />
 
   <!-- Saga -->
   <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="cm-11.0" />
