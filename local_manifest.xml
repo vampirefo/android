@@ -7,7 +7,6 @@
   <remove-project name="CyanogenMod/android_packages_providers_MediaProvider" />
 
   <!-- OpenDesireProject -->
-  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="stable/cm-11.0" />
   <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="stable/cm-11.0" />
   <project path="frameworks/av" name="OpenDesireProject/android_frameworks_av" revision="stable/cm-11.0" />
   <project path="hardware/qcom/audio-legacy" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="stable/cm-11.0" />
