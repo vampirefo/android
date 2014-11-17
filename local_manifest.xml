@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remove-project path="build" name="CyanogenMod/android_build" groups="pdk,tradefed" >
+	<copyfile src="core/root.mk" dest="Makefile" />
+  </remove-project>
+
+  <project path="build" name="kylon/android_build" groups="pdk,tradefed" >
+    <copyfile src="core/root.mk" dest="Makefile" />
+  </project>
+
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
 
