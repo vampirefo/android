@@ -2,8 +2,8 @@
 <manifest>
 
   <!-- remove CM repos -->
-  <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_build" />
+  <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
 
   <!-- OpenDesireProject -->
   <project path="build" name="OpenDesireProject/android_build" revision="cm-12.0">
