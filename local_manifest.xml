@@ -3,6 +3,7 @@
 
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_build" />
+  <remove-project name="CyanogenMod/android_frameworks_av" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
 
   <!-- OpenDesireProject -->
@@ -10,6 +11,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="cm-12.0" />
+  <project path="frameworks/av" name="OpenDesireProject/android_frameworks_av" revision="cm-12.0" />
   <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-12.0-legacy-msm7x30" />
   <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-12.0-legacy-msm7x30" />
   <project path="hardware/qcom/media-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="cm-12.0-legacy-msm7x30" />
