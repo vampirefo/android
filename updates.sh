@@ -30,6 +30,9 @@ cherries+=(77758)
 cherries+=(79136)
 
 # libutils: refbase: jellybean mr1 compat
-# cherries2+=(79142)
+# cherries+=(79142)
+
+# libril: Provide support for legacy ril
+cherries+=(79490)
 
 ${android}/build/tools/repopick.py -b ${cherries[@]}
