@@ -35,7 +35,4 @@ cherries+=(79136)
 # libril: Provide support for legacy ril
 cherries+=(79490)
 
-# support for ICS camera blobs
-cherries+=(79624)
-
 ${android}/build/tools/repopick.py -b ${cherries[@]}
