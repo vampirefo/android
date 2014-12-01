@@ -41,4 +41,7 @@ cherries+=(79834)
 # CardStateMonitor: Use fakeiccid if needed for legacy ril (2/2)
 cherries+=(79835)
 
+# Legacy RIL requires radio technology equals CDMA or GSM
+cherries+=(79912)
+
 ${android}/build/tools/repopick.py -b ${cherries[@]}
