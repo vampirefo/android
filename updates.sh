@@ -32,11 +32,8 @@ cherries+=(79136)
 # libril: Provide support for legacy ril
 cherries+=(79490)
 
-# Implement fakeiccid for legacy rils (1/2)
-cherries+=(79834)
-
-# CardStateMonitor: Use fakeiccid if needed for legacy ril (2/2)
-cherries+=(79835)
+# Implement UICC TVL Data decoding
+cherries+=(80227)
 
 # Legacy RIL requires radio technology equals CDMA or GSM
 cherries+=(79912)
