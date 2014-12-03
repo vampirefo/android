@@ -26,7 +26,7 @@ To download prebuilts:
 To build:
 
     . build/envsetup.sh
-    lunch cm_ace-userdebug
+    lunch
     mka bacon
 
 Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
