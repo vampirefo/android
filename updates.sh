@@ -29,9 +29,6 @@ cherries+=(79136)
 # libutils: refbase: jellybean mr1 compat
 # cherries+=(79142)
 
-# libril: Provide support for legacy ril
-cherries+=(79490)
-
 # Implement UICC TVL Data decoding
 cherries+=(80227)
 
