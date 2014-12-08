@@ -14,7 +14,4 @@ cherries+=(79136)
 # Implement UICC TVL Data decoding
 cherries+=(80227)
 
-# Legacy RIL requires radio technology equals CDMA or GSM
-cherries+=(79912)
-
 ${android}/build/tools/repopick.py -b ${cherries[@]}
