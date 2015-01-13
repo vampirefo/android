@@ -12,7 +12,6 @@
   <project path="build" name="OpenDesireProject/android_build" revision="cm-12.0">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="cm-12.0" />
   <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-12.0-legacy-msm7x30" />
   <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-12.0-legacy-msm7x30" />
   <project path="hardware/qcom/media-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="cm-12.0-legacy-msm7x30" />
@@ -24,10 +23,12 @@
 
   <!-- Ace -->
   <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="cm-12.0" />
-  <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="cm-12.0" />
 
   <!-- Saga -->
   <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="cm-12.0" />
-  <project path="vendor/htc/saga" name="OpenDesireProject/android_vendor_htc_saga" revision="cm-12.0" />
+
+  <!-- Common -->
+  <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="cm-12.0" />
+  <project path="vendor/htc" name="OpenDesireProject/proprietary_vendor_htc" revision="cm-12.0" />
 
 </manifest>
