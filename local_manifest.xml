@@ -6,6 +6,7 @@
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_system_core" />
+  <remove-project name="CyanogenMod/android_system_vold" />
 
   <!-- OpenDesireProject -->
   <project path="bionic" name="OpenDesireProject/android_bionic" revision="staging/cm-12.1" />
@@ -20,6 +21,7 @@
   <project path="packages/apps/ODPUpdater" name="OpenDesireProject/android_packages_apps_ODPUpdater" revision="cm-12.1" />
   <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="cm-12.1" />
   <project path="system/core" name="OpenDesireProject/android_system_core" revision="staging/cm-12.1" />
+  <project path="system/vold" name="OpenDesireProject/android_system_vold" revision="cm-12.1" />
 
   <!-- Ace -->
   <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="cm-12.1" />
