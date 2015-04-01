@@ -11,17 +11,11 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
     repo init -u git://github.com/CyanogenMod/android.git -b cm-12.0
     mkdir -p .repo/local_manifests
-    wget https://github.com/OpenDesireProject/android/raw/cm-12.0/local_manifest.xml -O .repo/local_manifests/cm_ace.xml
+    wget https://github.com/OpenDesireProject/android/raw/cm-12.0/local_manifest.xml -O .repo/local_manifests/local_manifest.xml
 
 Then to sync up:
 
     repo sync
-
-To download prebuilts:
-
-    cd vendor/cm/
-    ./get-prebuilts
-    cd ../../
 
 To build:
 
