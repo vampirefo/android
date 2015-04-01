@@ -8,4 +8,10 @@ if [ "${android}" = "" ]; then
 	android=~/android/system
 fi
 
+# vold: add ro.vold.umsdirtyratio property
+cherries+=(88635)
+
+# audio: Make getPresentationPosition pure virtual
+cherries+=(92978)
+
 ${android}/build/tools/repopick.py -b ${cherries[@]}
