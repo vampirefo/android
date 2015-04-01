@@ -9,8 +9,8 @@
   <remove-project name="CyanogenMod/android_system_vold" />
 
   <!-- OpenDesireProject -->
-  <project path="bionic" name="OpenDesireProject/android_bionic" revision="staging/cm-12.1" />
-  <project path="build" name="OpenDesireProject/android_build" revision="staging/cm-12.1">
+  <project path="bionic" name="OpenDesireProject/android_bionic" revision="cm-12.1" />
+  <project path="build" name="OpenDesireProject/android_build" revision="cm-12.1">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-12.1-legacy-msm7x30" />
@@ -20,7 +20,7 @@
   <project path="local_manifest" name="OpenDesireProject/android" revision="cm-12.1" />
   <project path="packages/apps/ODPUpdater" name="OpenDesireProject/android_packages_apps_ODPUpdater" revision="cm-12.1" />
   <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="cm-12.1" />
-  <project path="system/core" name="OpenDesireProject/android_system_core" revision="staging/cm-12.1" />
+  <project path="system/core" name="OpenDesireProject/android_system_core" revision="cm-12.1" />
   <project path="system/vold" name="OpenDesireProject/android_system_vold" revision="cm-12.1" />
 
   <!-- Ace -->
