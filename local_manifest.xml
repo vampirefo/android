@@ -7,22 +7,22 @@
   <remove-project name="CyanogenMod/android_packages_providers_MediaProvider" />
 
   <!-- OpenDesireProject -->
-  <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="cm-11.0" />
-  <project path="frameworks/opt/telephony" name="OpenDesireProject/android_frameworks_opt_telephony" revision="cm-11.0" />
-  <project path="hardware/qcom/audio-legacy" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-11.0" />
-  <project path="hardware/qcom/display-legacy" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-11.0" />
-  <project path="hardware/qcom/media-legacy" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="cm-11.0" />
-  <project path="kernel/htc/msm7x30" name="OpenDesireProject/android_kernel_htc_msm7x30" revision="cm-11.0" />
-  <project path="local_manifest" name="OpenDesireProject/android" revision="cm-11.0" />
-  <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="cm-11.0" />
-  <project path="packages/providers/MediaProvider" name="OpenDesireProject/android_packages_providers_MediaProvider" revision="cm-11.0" />
+  <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="stable/cm-11.0-XNG3C" />
+  <project path="frameworks/opt/telephony" name="OpenDesireProject/android_frameworks_opt_telephony" revision="stable/cm-11.0-XNG3C" />
+  <project path="hardware/qcom/audio-legacy" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="stable/cm-11.0-XNG3C" />
+  <project path="hardware/qcom/display-legacy" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="stable/cm-11.0-XNG3C" />
+  <project path="hardware/qcom/media-legacy" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="stable/cm-11.0-XNG3C" />
+  <project path="kernel/htc/msm7x30" name="OpenDesireProject/android_kernel_htc_msm7x30" revision="stable/cm-11.0-XNG3C" />
+  <project path="local_manifest" name="OpenDesireProject/android" revision="stable/cm-11.0-XNG3C" />
+  <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="stable/cm-11.0-XNG3C" />
+  <project path="packages/providers/MediaProvider" name="OpenDesireProject/android_packages_providers_MediaProvider" revision="stable/cm-11.0-XNG3C" />
 
   <!-- Ace -->
-  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="cm-11.0" />
-  <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="cm-11.0" />
+  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="stable/cm-11.0-XNG3C" />
+  <project path="vendor/htc/ace" name="OpenDesireProject/android_vendor_htc_ace" revision="stable/cm-11.0-XNG3C" />
 
   <!-- Saga -->
-  <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="cm-11.0" />
-  <project path="vendor/htc/saga" name="OpenDesireProject/android_vendor_htc_saga" revision="cm-11.0" />
+  <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="stable/cm-11.0-XNG3C" />
+  <project path="vendor/htc/saga" name="OpenDesireProject/android_vendor_htc_saga" revision="stable/cm-11.0-XNG3C" />
 
 </manifest>
