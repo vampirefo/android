@@ -11,4 +11,7 @@ fi
 # audio: Make getPresentationPosition pure virtual
 cherries+=(92978)
 
+# Fix GPS for old GPS HALs
+cherries+=(97902)
+
 ${android}/build/tools/repopick.py -b ${cherries[@]}
