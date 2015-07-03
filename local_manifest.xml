@@ -9,28 +9,28 @@
   <remove-project name="CyanogenMod/android_system_vold" />
 
   <!-- OpenDesireProject -->
-  <project path="bionic" name="OpenDesireProject/android_bionic" revision="cm-12.0" />
-  <project path="build" name="OpenDesireProject/android_build" revision="cm-12.0">
+  <project path="bionic" name="OpenDesireProject/android_bionic" revision="stable/cm-12.0-YNG4N" />
+  <project path="build" name="OpenDesireProject/android_build" revision="stable/cm-12.0-YNG4N">
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-12.0-legacy-msm7x30" />
-  <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-12.0-legacy-msm7x30" />
-  <project path="hardware/qcom/media-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="cm-12.0-legacy-msm7x30" />
-  <project path="kernel/htc/msm7x30" name="OpenDesireProject/android_kernel_htc_msm7x30" revision="cm-12.0" />
-  <project path="local_manifest" name="OpenDesireProject/android" revision="cm-12.0" />
-  <project path="packages/apps/ODPUpdater" name="OpenDesireProject/android_packages_apps_ODPUpdater" revision="cm-12.0" />
-  <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="cm-12.0" />
-  <project path="system/core" name="OpenDesireProject/android_system_core" revision="cm-12.0" />
-  <project path="system/vold" name="OpenDesireProject/android_system_vold" revision="cm-12.0" />
+  <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="stable/cm-12.0-YNG4N-legacy-msm7x30" />
+  <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="stable/cm-12.0-YNG4N-legacy-msm7x30" />
+  <project path="hardware/qcom/media-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="stable/cm-12.0-YNG4N-legacy-msm7x30" />
+  <project path="kernel/htc/msm7x30" name="OpenDesireProject/android_kernel_htc_msm7x30" revision="stable/cm-12.0-YNG4N" />
+  <project path="local_manifest" name="OpenDesireProject/android" revision="stable/cm-12.0-YNG4N" />
+  <project path="packages/apps/ODPUpdater" name="OpenDesireProject/android_packages_apps_ODPUpdater" revision="stable/cm-12.0-YNG4N" />
+  <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="stable/cm-12.0-YNG4N" />
+  <project path="system/core" name="OpenDesireProject/android_system_core" revision="stable/cm-12.0-YNG4N" />
+  <project path="system/vold" name="OpenDesireProject/android_system_vold" revision="stable/cm-12.0-YNG4N" />
 
   <!-- Ace -->
-  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="cm-12.0" />
+  <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="stable/cm-12.0-YNG4N" />
 
   <!-- Saga -->
-  <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="cm-12.0" />
+  <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="stable/cm-12.0-YNG4N" />
 
   <!-- Common -->
-  <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="cm-12.0" />
-  <project path="vendor/htc" name="OpenDesireProject/proprietary_vendor_htc" revision="cm-12.0" />
+  <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="stable/cm-12.0-YNG4N" />
+  <project path="vendor/htc" name="OpenDesireProject/proprietary_vendor_htc" revision="stable/cm-12.0-YNG4N" />
 
 </manifest>
