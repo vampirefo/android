@@ -8,9 +8,6 @@ if [ "${android}" = "" ]; then
 	android=~/android/system
 fi
 
-# audio: Make getPresentationPosition pure virtual
-cherries+=(92978)
-
 # Fix GPS for old GPS HALs
 cherries+=(97902)
 
