@@ -23,6 +23,7 @@
 
   <!-- Ace -->
   <project path="device/htc/ace" name="OpenDesireProject/android_device_htc_ace" revision="cm-12.1" />
+  <project path="device/htc/aceopt" name="OpenDesireProject/android_device_htc_aceopt" revision="cm-12.1" />
 
   <!-- Saga -->
   <project path="device/htc/saga" name="OpenDesireProject/android_device_htc_saga" revision="cm-12.1" />
