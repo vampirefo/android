@@ -23,7 +23,7 @@
   <project path="device/htc/aceopt" name="OpenDesireProject/android_device_htc_aceopt" revision="cm-13.0" />
 
   <!-- Saga -->
-  <project path="device/htc/sagaopt" name="OpenDesireProject/android_device_htc_sagaopt" revision="cm-12.1" />
+  <project path="device/htc/sagaopt" name="OpenDesireProject/android_device_htc_sagaopt" revision="cm-13.0" />
 
   <!-- Common -->
   <project path="device/htc/msm7x30-common" name="OpenDesireProject/android_device_htc_msm7x30-common" revision="cm-13.0" />
