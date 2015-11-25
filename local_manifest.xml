@@ -19,6 +19,7 @@
   <project path="local_manifest" name="OpenDesireProject/android" revision="cm-13.0" />
   <!--<project path="packages/apps/ODPUpdater" name="OpenDesireProject/android_packages_apps_ODPUpdater" revision="cm-12.1" /> -->
   <project path="packages/apps/ProximityRecalibrator" name="OpenDesireProject/android_packages_apps_ProximityRecalibrator" revision="cm-12.1" />
+  <project path="system/core" name="OpenDesireProject/android_system_core" revision="cm-13.0" />
 
   <!-- Ace -->
   <project path="device/htc/aceopt" name="OpenDesireProject/android_device_htc_aceopt" revision="cm-13.0" />
