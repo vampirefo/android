@@ -5,6 +5,7 @@
   <remove-project name="CyanogenMod/android_bionic" />
   <remove-project name="CyanogenMod/android_build" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
+  <remove-project name="CyanogenMod/android_system_core" />
 
   <!-- OpenDesireProject -->
   <project path="bionic" name="OpenDesireProject/android_bionic" revision="cm-13.0" />
