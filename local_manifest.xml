@@ -4,6 +4,7 @@
   <!-- remove CM repos -->
   <remove-project name="CyanogenMod/android_bionic" />
   <remove-project name="CyanogenMod/android_build" />
+  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_packages_apps_CMUpdater" />
   <remove-project name="CyanogenMod/android_system_core" />
 
@@ -13,6 +14,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="external/stlport" name="platform/external/stlport" remote="aosp" revision="refs/tags/android-5.1.1_r26" />
+  <project path="frameworks/opt/telephony" name="OpenDesireProject/android_frameworks_opt_telephony" revision="cm-13.0" />
   <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-13.0-legacy-msm7x30" />
   <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-13.0-caf-7x30" />
   <project path="hardware/qcom/media-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="cm-13.0-legacy-msm7x30" />
