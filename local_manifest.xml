@@ -13,7 +13,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="hardware/qcom/audio-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_audio-legacy" revision="cm-12.1-legacy-msm7x30" />
-  <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-12.1-legacy-msm7x30" />
+  <project path="hardware/qcom/display-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_display-legacy" revision="cm-12.1-caf-7x30" />
   <project path="hardware/qcom/media-caf/msm7x30" name="OpenDesireProject/android_hardware_qcom_media-legacy" revision="cm-12.1-legacy-msm7x30" />
   <project path="kernel/htc/msm7x30" name="OpenDesireProject/android_kernel_htc_msm7x30" revision="cm-12.1" />
   <project path="local_manifest" name="OpenDesireProject/android" revision="cm-12.1" />
