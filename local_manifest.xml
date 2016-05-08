@@ -2,29 +2,25 @@
 <manifest>
 
   <!-- remove CM repos -->
-  <remove-project name="CyanogenMod/android_system_netd" />
   <remove-project name="CyanogenMod/android_system_core" />
-  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
-  <remove-project name="CyanogenMod/android_frameworks_av" />
+  <remove-project name="CyanogenMod/android_system_netd" />
+  <remove-project name="CyanogenMod/android_external_tinycompress" />
   <remove-project name="CyanogenMod/android_frameworks_base" />
+  <remove-project name="CyanogenMod/android_frameworks_opt_telephony" />
   <remove-project name="CyanogenMod/android_packages_services_Telecomm" />
   <remove-project name="CyanogenMod/android_packages_services_Telephony" />
-  <remove-project name="CyanogenMod/android_external_tinycompress" />
 
   <!-- MT6582 repos -->
-  <project path="frameworks/av" name="vampirefo/frameworks-av" revision="master" />
-  <project path="frameworks/base" name="vampirefo/frameworks-base" revision="master">
-  </project>
-  <project path="frameworks/opt/telephony" name="vampirefo/frameworks-opt-telephony" revision="master" />
-  <project path="system/netd" name="vampirefo/system-netd" revision="master" />
-  <project path="system/core" name="vampirefo/system-core" revision="master" />
-  <project path="local_manifest" name="vampirefo/android" revision="cm-13.0" />
-  <project path="packages/services/Telecomm" name="vampirefo/packages-services-Telecomm" revision="master" />
-  <project path="packages/services/Telephony" name="vampirefo/packages-services-Telephony" revision="master" />
-  <project path="external/tinycompress" name="vampirefo/external-tinycompress" revision="master" />
+  <project path="system/core" name="vampirefo/system-core" remote="github" revision="master"/>
+  <project path="system/netd" name="vampirefo/system-netd" remote="github" revision="master"/>
+  <project path="external/tinycompress" name="vampirefo/external-tinycompress" remote="github" revision="master"/>
+  <project path="frameworks/base" name="vampirefo/frameworks-base" remote="github" revision="master"/>
+  <project path="frameworks/opt/telephony" name="vampirefo/frameworks-opt-telephony" remote="github" revision="master"/>
+  <project path="packages/services/Telecomm" name="vampirefo/packages-services-Telecomm" remote="github" revision="master"/>
+  <project path="packages/services/Telephony" name="vampirefo/packages-services-Telephony" remote="github" revision="master"/>
 
   <!-- blu -->
-  <project path="device/blu/E030U" name="vampirefo/android_device_blu_E030U" revision="master" />
-  <project path="vendor/blu/E030U" name="vampirefo/android_vendor_blu_E030U" revision="master" />
+  <project path="device/blu/E030U" name="vampirefo/android_device_blu_E030U" remote="github" revision="master"/>
+  <project path="vendor/blu/E030U" name="vampirefo/android_vendor-blu-E030U" remote="github" revision="master"/>
 
 </manifest>
