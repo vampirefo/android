@@ -19,7 +19,7 @@ Then to sync up:
 
 To build:
 
-    . build/envsetup.sh
+    source build/envsetup.sh
     lunch cm_E030U-userdebug
     mka bacon -j10
 
