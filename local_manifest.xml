@@ -17,10 +17,10 @@
   <project path="frameworks/base" name="vampirefo/frameworks-base" remote="github" revision="master"/>
   <project path="frameworks/opt/telephony" name="vampirefo/frameworks-opt-telephony" remote="github" revision="master"/>
   <project path="packages/services/Telecomm" name="vampirefo/packages-services-Telecomm" remote="github" revision="master"/>
-  <project path="packages/services/Telephony" name="vampirefo/packages-services-Telephony" remote="github" revision="master"/>
+  <project path="packages/services/Telephony" name="vampirefo/packages_services_Telephony" remote="github" revision="master"/>
 
   <!-- blu -->
   <project path="device/blu/E030U" name="vampirefo/android_device_blu_E030U" remote="github" revision="master"/>
-  <project path="vendor/blu/E030U" name="vampirefo/android_vendor-blu-E030U" remote="github" revision="master"/>
+  <project path="vendor/blu/E030U" name="vampirefo/android_vendor_blu_E030U" remote="github" revision="master"/>
 
 </manifest>
