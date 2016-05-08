@@ -23,7 +23,7 @@
   <project path="packages/services/Telephony" name="vampirefo/packages-services-Telephony" revision="master" />
   <project path="external/tinycompress" name="vampirefo/external-tinycompress" revision="master" />
 
-  <!-- bluE -->
+  <!-- blu -->
   <project path="device/blu/E030U" name="vampirefo/android_device_blu_E030U" revision="master" />
   <project path="vendor/blu/E030U" name="vampirefo/android_vendor_blu_E030U" revision="master" />
 
