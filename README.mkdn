@@ -20,7 +20,7 @@ Then to sync up:
 To build:
 
     . build/envsetup.sh
-    lunch cm_E030U-eng
+    lunch cm_E030U-userdebug
     mka bacon -j10
 
 Please see the [CyanogenMod Wiki](http://wiki.cyanogenmod.org/) for building instructions.
